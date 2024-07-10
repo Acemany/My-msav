@@ -6,7 +6,7 @@ Its always something like `version_modname.zip` or `version.zip`
 
 - `steam_frozz.zip`
   - steam is version, release 146
-  - frozz  mod name, frozen forest
+  - frozz is mod name, frozen forest
 
 - `25013.zip`
   - 25013 is bleeding edge version
