@@ -2,12 +2,15 @@
 
 ## What do the names mean?
 
-Its always something like `version_modname.zip` or `version.zip`
+Its always something like `version_modname.zip` or `version.zip` or `version/`
 
 - `steam_frozz.zip`
-  - steam is version, release 146
-  - frozz is mod name, frozen forest
+  - Steam is version, release 146
+  - Frozz is mod name, frozen forest
 
 - `25013.zip`
   - 25013 is bleeding edge version
-  - without a mod name, it means no global mods are used
+  - Without a mod name, it means no global mods are used
+
+- `steam/`
+  - Saves from my steam
