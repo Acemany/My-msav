@@ -1,2 +1,13 @@
 # VDF(Valve Data Format) - Steam files
 *.vdf
+
+# Binary, cache and logs
+*.msav-backup.msav
+cache/
+settings_backups
+settings_backup.bin
+settings.log
+last_log.txt
+
+# Non necessary
+previews/
